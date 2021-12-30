@@ -1,100 +1,23 @@
-# springboot-vue-demo
-
-## 介绍
-SpringBoot+Vue前后端分离入门示例，本示例实现了登录功能和用户管理功能。
-
-通过这个示例，可以快速入门 SpringBoot+Vue前后端分离开发。
-
-基本功能如下：
-
-- 登录
-
-  ![image-20210126102510637](https://gitee.com/sanfene/picgo/raw/master/image-20210126102510637.png)
-
-- 首页
-
-![image-20210126102546973](https://gitee.com/sanfene/picgo/raw/master/image-20210126102546973.png)
+# Epidemic-Management-System
 
 
+### Database import
 
-- 用户列表
-
-![image-20210126102632136](https://gitee.com/sanfene/picgo/raw/master/image-20210126102632136.png)
-
-
-
-- 添加用户
-
-![image-20210126102718506](https://gitee.com/sanfene/picgo/raw/master/image-20210126102718506.png)
-
-
-
-- 修改用户
-
-![image-20210126102754527](https://gitee.com/sanfene/picgo/raw/master/image-20210126102754527.png)
-
-
-
-- 删除用户
-
-![image-20210126102904907](https://gitee.com/sanfene/picgo/raw/master/image-20210126102904907.png)
-
-
-
-- 批量删除
-
-![image-20210126102948616](https://gitee.com/sanfene/picgo/raw/master/image-20210126102948616.png)
-
-## 技术选型
-
-简单说明一下本示例中所用到的技术，如图所示：
-
-![前后端分离Demo](https://gitee.com/sanfene/picgo/raw/master/20210116123617.png)
-
-
-## 安装教程
-
-### 1、克隆项目
-
-使用命令克隆项目
-
-````bash
-git clone https://gitee.com/fighter3/springboot-vue-demo.git
-````
-
-![image-20210126104100719](https://gitee.com/sanfene/picgo/raw/master/image-20210126104100719.png)
-
-
-
-`demo-java` 是后端项目
-
-`demo-vue` 是前端项目
-
-`doc` 目录下存放了数据库文件
-
-
-
-![image-20210126104552101](https://gitee.com/sanfene/picgo/raw/master/image-20210126104552101.png)
-
-### 2、数据库导入
-
-本示例数据库采用MySQL5.7。
+The database of this project is MySQL5.7.  
+Use the official tool MySQL Workbench
 
 - Create a new database 'demo'
-
-![image-20210126104223136](https://gitee.com/sanfene/picgo/raw/master/image-20210126104223136.png)
 
 - Run the SQL file in the 'SQL' directory
 
 ![image-20210126104338769](https://gitee.com/sanfene/picgo/raw/master/image-20210126104338769.png)
 
-- 导入数据库成功
+- Importing the database succeeded
 
 ![image-20210126104418329](https://gitee.com/sanfene/picgo/raw/master/image-20210126104418329.png)
 
-### 3、后端开发部署
-
-后端开发工具使用Idea。
+### roject deployment
+The development tool uses Eclipse.
 
 - Idea 中 `File` --> `Open` 打开新`demo-java`
 
