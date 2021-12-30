@@ -21,7 +21,7 @@ The development tool uses Eclipse.
 
 - Idea 中 `File` --> `Open` 打开新`demo-java`
 
-  ![image-20210126104812587](https://gitee.com/sanfene/picgo/raw/master/image-20210126104812587.png)
+  ![image-20210126104812587](https://github.com/73025143/Epidemic-Management-System/blob/main/ReadMeImagine/2020050314061292.png)
 
 ![image-20210126104729099](https://gitee.com/sanfene/picgo/raw/master/image-20210126104729099.png)
 
