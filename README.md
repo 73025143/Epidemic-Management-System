@@ -5,7 +5,7 @@ Use the official tool MySQL Workbench
 -	Create a new database 'demo'
  
 -	Run the SQL file in the 'SQL' directory
-File---->Open sql script
+-File---->Open sql script
  
  
  
