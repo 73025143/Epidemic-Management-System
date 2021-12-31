@@ -1,3 +1,4 @@
+# there are some wrong with imagine , please use ReadMe.docx
 # Epidemic-Management-System
 ### Database import
 The database of this project is MySQL5.7.
