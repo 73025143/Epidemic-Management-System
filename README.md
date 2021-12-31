@@ -4,7 +4,7 @@
 The database of this project is MySQL5.7.
 Use the official tool MySQL Workbench
 -	Create a new database 'demo'
- 
+ ![Image discription](https://github.com/73025143/Epidemic-Management-System/blob/main/imagine/1.jpg)
 -	Run the SQL file in the 'SQL' directory
 -File---->Open sql script
  
